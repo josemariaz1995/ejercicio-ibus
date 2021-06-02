@@ -4,6 +4,7 @@ const key = "bcb24aaef873d8eb67b6d22a5c15e56b";
 
 const idParada = document.querySelector(".id_parada");
 const enviar = document.querySelector(".enviar");
+console.log(enviar);
 const datosLlegada = document.querySelector(".comprobacion");
 
 enviar.addEventListener(
